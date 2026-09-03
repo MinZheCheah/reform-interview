@@ -65,6 +65,3 @@ public/
 - Input files and extracted data can be stored in a PostgreSQL database.
 - Improve parsing with configurable document schemas.
 
-
-
-The UI is browser-only and does not upload document data to a server. OCR asset loading requires the app to be served over HTTP; opening `index.html` directly is not supported.
